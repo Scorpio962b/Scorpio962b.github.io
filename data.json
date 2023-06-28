@@ -1,4 +1,5 @@
-  [
+  {
+    "products": [
     {
   
       id: 1,
@@ -130,4 +131,5 @@
       imageUrl: "https://i.postimg.cc/LsHsgBQV/mac-and-cheese.jpg",
       price: 151,
       catogary: "dinner",
-    }];
+    }]
+  };
